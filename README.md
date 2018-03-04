@@ -12,7 +12,7 @@ Disclaimer: In most cases **the code in here is supposed to be vulnerable**. Ple
 Flags aren't given though, though nothing has been done to obscure them in the case where there is code involved. If you want the flag/solve, shoot me a message.
 
 #### Can I use these?
-Totally, just remember that they have been used in past CTFs and there may be writeups for them. Shoot me a message if you need the flag/solves. If you are so 
+Totally! Just remember that they have been used in past CTFs and there may be writeups for them. Message me for the flags/solves/documentation. 
 
 #### I solved the thing!
 Dope! Post a writeup and shoot me a message!

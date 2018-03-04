@@ -6,10 +6,10 @@ Disclaimer: In most cases **the code in here is supposed to be vulnerable**. Ple
 
 ### FAQ
 #### What's a CTF?
-[Hacker Olympics](https://www.youtube.com/watch?v=WarxSFykT2Q)
+Typically held at cybersecurity conferences, Capture the Flag events are competitions where players compete to solve tasks that simulate various aspects of cybersecurity and cryptography. They are exactly as cool as their portrayal in Mr. Robot. [HACKER OLYMPICS](https://www.youtube.com/watch?v=WarxSFykT2Q)
 
-#### What are the flags?
-Flags aren't given though, though nothing has been done to obscure them in the case where there is code involved. If you want the flag/solve, shoot me a message.
+#### Where are the flags?
+I've intentionally not included the flags. If you want to use these challenges in your own CTF, or need help on a particular challenge, see below.
 
 #### Can I use these?
 Totally! Just remember that they have been used in past CTFs and there may be writeups for them. Message me for the flags/solves/documentation. 
